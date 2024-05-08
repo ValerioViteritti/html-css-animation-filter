@@ -36,11 +36,41 @@
 }
 
 
+.ex-7-img:hover{
+    filter: invert(1) grayscale(1);
+    
+}
 
-7
 
 
+.ex-8-img:hover{
+    filter: grayscale(0.8);
+    border-radius: 20px;
 
+}
+
+.ex-9-img:hover{
+    filter: grayscale(0.7);
+    border-radius: 25px;
+    margin: -6.8px 0px;
+    width: 600px;
+
+}
+/* .ex-10-icon ANIMATION*/
+@keyframes routa-anti{
+    /* 50%{
+        transform: rotate(-180deg);
+        
+    } */
+    100%{
+        transform: rotate(-360deg);
+    }
+}
+
+.ex-11-icon:hover{
+    transform: rotate(300deg)
+
+}
 
 
 
