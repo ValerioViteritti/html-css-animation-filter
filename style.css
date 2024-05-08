@@ -58,8 +58,7 @@
 }
 .ex-11-icon {
     font-size: 60px;
-    /* animation: rotate-return 2s; */
-    transition: all 1.5s;
+
 }
 .ex-12-button, .ex-13-button {
     position: relative;
@@ -82,6 +81,7 @@
     width: 60px;
     height: 20px;
 }
+
 .ex-12-bottom-white, .ex-13-bottom-white {
     position: absolute;
     bottom: -10px;
