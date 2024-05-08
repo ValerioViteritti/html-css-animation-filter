@@ -44,7 +44,6 @@
     transition: all 1.5s ease-in-out;
 
 }
-
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
@@ -58,7 +57,6 @@
 }
 .ex-11-icon {
     font-size: 60px;
-
 }
 .ex-12-button, .ex-13-button {
     position: relative;
@@ -81,7 +79,6 @@
     width: 60px;
     height: 20px;
 }
-
 .ex-12-bottom-white, .ex-13-bottom-white {
     position: absolute;
     bottom: -10px;
